@@ -32,6 +32,10 @@ body {
     width: 34px;
   }
   
+  .square-active {
+    background: rgb(222, 222, 12);
+  } 
+  
   .square:focus {
     outline: none;
   }
